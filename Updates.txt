@@ -1,0 +1,5 @@
+//Specific pokemon classes like charmender and oddih and shit will be doomed
+
+the move_1 move_2 methods will be moved to the base class as it should ve been 
+
+base class will contain 4 instance of moves class. and the paramiterezed will ask for name type... 4 object of moves class and copy them into the ones within it
