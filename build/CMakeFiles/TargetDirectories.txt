@@ -1,0 +1,3 @@
+/home/producerdj/Projects/lnx/build/CMakeFiles/PokemonApp.dir
+/home/producerdj/Projects/lnx/build/CMakeFiles/edit_cache.dir
+/home/producerdj/Projects/lnx/build/CMakeFiles/rebuild_cache.dir
